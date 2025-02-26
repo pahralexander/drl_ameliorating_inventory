@@ -1,11 +1,11 @@
 # Ameliorating inventory management using deep reinforcement learning
-#____________________________________________________________________________________________#
+____________________________________________________________________________________________
 
 Repository for the research paper: The Value of Blending - Managing Ameliorating Inventory Using Deep Reinforcement Learning
 
 published as: https://papers.ssrn.com/abstract=5037274 
 
-#____________________________________________________________________________________________#
+____________________________________________________________________________________________
 
 AmelioratingInventoryPOM.py: contains gymnasium environment which can be used by drl algorithms
 
